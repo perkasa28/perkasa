@@ -1,0 +1,2 @@
+# perkasa
+riwayat belajar pemrograman
